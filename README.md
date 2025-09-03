@@ -1,48 +1,23 @@
-# 💼 Mon Portfolio Web 🌐  
+# Projet : Automatisation de la modélisation ArchiMate dans Archi
 
-## 🎯 Description  
-Bienvenue sur mon portfolio ! 👋 Ce site présente mon parcours, mes compétences en développement web et mes projets.  
-Il est conçu avec une interface moderne et fluide, en mettant en avant mes réalisations et mes compétences techniques.  
+## Contexte
+Lors de mon stage, j’ai développé un script d’automatisation pour l’outil **Archi** (modélisation ArchiMate).  
+Auparavant, les modèles étaient créés manuellement, ce qui était long et source d’erreurs.
 
-✨ **Technologies utilisées :**  
-- HTML5, CSS3, JavaScript  
-- Frameworks & bibliothèques : React, Bootstrap , Angular  
-- Backend : Node.js, Express, PHP
-- Base de données : MySQL, MongoDB  
+## Objectifs
+- Automatiser l’import d’éléments et de relations depuis un fichier CSV  
+- Réduire le temps de modélisation et améliorer la fiabilité  
+- Générer un journal d’exécution clair pour assurer la traçabilité  
 
-🚀 **Fonctionnalités du portfolio :**  
-✅ Mode sombre 🌙  
-✅ Présentation de mes projets 💻  
-✅ liste de mes contacts 📩  
+## Réalisation
+- Développement d’un script en **JavaScript** avec le plugin **Archi Scripting (GraalVM)**  
+- Import automatique de données CSV et création de plus de 30 éléments et relations ArchiMate  
+- Gestion des erreurs et génération de logs détaillés  
 
----
+## Résultats
+- Gain de temps significatif dans la modélisation  
+- Réduction des erreurs et meilleure cohérence des données  
+- Processus réutilisable sur d’autres projets  
 
-## 🖼️ Aperçu du Portfolio  
-![image](https://github.com/user-attachments/assets/e5557557-c1bf-48ac-868d-cd079adeec78)
-
-
-
----
-
-## 📌 Projets mis en avant  
-### **1️⃣ Bataille - Jeu de cartes en Python**  
-Un jeu de bataille en Python simulant un affrontement entre deux joueurs.  
-🃏 **Fonctionnalités :**  
-- Création et mélange d'un jeu de 52 cartes  
-- Comparaison des cartes et gestion des batailles  
-- Annonce automatique du gagnant  
-
-### **2️⃣ Manga/Anime Finder**  
-Une **SPA** utilisant l'API **Jikan** pour rechercher des informations sur les mangas et animés.  
-🎌 **Fonctionnalités :**  
-- Recherche dynamique  
-- Affichage des détails (image, description, genre, année de sortie)  
-- Interface fluide sans rechargement de page  
-
----
-
-## 📩 Me Contacter  
-📧 **Email :** lucca.graffeille.pro@gmail.com  
-📧 **Email académique :** lucca.graffeille@edu.igensia.com 
-🐙 **GitHub :** https://github.com/Pokeifan
-
+## Compétences développées
+JavaScript appliqué à l’automatisation · ArchiMate · Gestion des erreurs · Méthodologie projet
