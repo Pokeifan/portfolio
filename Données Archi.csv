@@ -1,0 +1,32 @@
+Type;Name;Servers;Fonctions
+Device;ArchiSurance Back-up Server Cluster;;
+Device;ArchiSurance General-Purpose Server Cluster;;
+Device;Auto General-Purpose Server;;
+Device;FO Web Hosting Server;;
+Device;FO General-Purpose Server;;
+Device;Legal Expense General Purpose Server;;
+Device;Document Management Server;;
+Device;Document Management Back-up Server;;
+BusinessFunction;Information Provisioning;;
+BusinessFunction;Buying Insurance;;
+BusinessFunction;Claims Submission;;
+BusinessFunction;Customer Relations;;
+BusinessFunction;Finance;;
+BusinessFunction;Claims Handling;;
+BusinessFunction;Underwriting;;
+BusinessFunction;Actuarial;;
+BusinessFunction;Document Processing;;
+BusinessFunction;Sales;;
+BusinessFunction;Marketing;;
+BusinessFunction;Investment Manager;;
+BusinessFunction;Banking;;
+BusinessFunction;Claims;;
+Application;Home & Away Financial Application;ArchiSurance General-Purpose Server Cluster;Finance
+Application;Home & Away Policy Administration;ArchiSurance General-Purpose Server Cluster;Claims Handling,Underwriting
+Application;Auto Insurance Application;Auto General-Purpose Server;Claims Handling,Underwriting,Actuarial
+Application;Call Center;FO General-Purpose Server;Customer Relations
+Application;Legal Expense CRM System;FO General-Purpose Server;Customer Relations,Finance
+Application;Web Portal;FO Web Hosting Server;Claims Submission,Customer Relations
+Application;Legal Expense Back Office System;Legal Expense General Purpose Server;Finance,Claims Handling,Underwriting
+Application;Document Management System;Document Management Server,Document Management Back-up Server;Document Processing
+Application;EPM;Document Management Server;Investment Management,Document Processing
